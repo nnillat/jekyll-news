@@ -11,7 +11,7 @@ layout: post
 category: Local News
 ---
 
-The tight-knit community of Arnprior is in mourning this week following the tragic and sudden passing of two local teenagers. Siblings Marcus Smith, 16, and Marson Smith, 16, both students at Arnprior District High School, passed away late Tuesday evening from what emergency services have confirmed as a suspected substance overdose. 
+The tight-knit community of Arnprior is in mourning this week following the tragic and sudden passing of two local teenagers. Siblings Marcus Smith, 16, and Mason Smith, 16, both students at Arnprior District High School, passed away late Tuesday evening from what emergency services have confirmed as a suspected substance overdose. 
 
 The emergency response was initiated after the brothers were discovered by their close friend, 16-year-old Andrew Blommestein, who immediately reported the situation to emergency services. Ontario Provincial Police (OPP) and Renfrew County paramedics rushed to the residential address in town shortly after 11:00 p.m. Despite the immediate deployment of life-saving measures and the administration of multiple doses of naloxone by first responders, both teenagers were tragically pronounced deceased at the scene. Authorities have launched an investigation into the source of the illicit substances, warning that a highly toxic batch of street drugs may currently be circulating in the Ottawa Valley region.
 
