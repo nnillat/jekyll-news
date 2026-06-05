@@ -1,7 +1,7 @@
 # Basic Site Info
-title: Jekyll News Theme
-description: "Built with Morpheus636's Jekyll-News Theme"
-author: Morpheus636
+title: The Arnprior Times
+description: ""
+author: The Arnprior Times
 
 # Site Flag
 flag:
@@ -11,7 +11,7 @@ flag:
 # Comments
 disqus:
   enabled: true
-  shortname: jekyll-news-demo  #REPLACEME
+  shortname: fff  #REPLACEME
 
 # Analytics
 google_analytics: G-GRV8PX7ZN1
@@ -32,7 +32,6 @@ collections:
 
 # Build settings
 markdown: kramdown
-remote_theme: morpheus636/jekyll-news
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
